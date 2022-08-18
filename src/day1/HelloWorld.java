@@ -5,5 +5,7 @@ public class HelloWorld {
 
         System.out.println("Good old days");
 
+        System.out.println("Today is Wednesday");
+
     }
 }
